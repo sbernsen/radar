@@ -1,0 +1,9 @@
+filter_type: bp
+corner: 1e6/4e7
+rms_norm: true
+stat_norm: true
+kwindow: 31
+stat_type: abs_mean
+rm_bgrnd: true
+d_rxtx: 4
+fs: 250e6
